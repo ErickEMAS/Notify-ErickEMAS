@@ -16,3 +16,12 @@ link HTML: <link href = "https://fonts.googleapis.com/css?family= Pacífico & di
 
 Link CSS: @import url ('https://fonts.googleapis.com/css?family= Pacifico & display = swap');
 	  família de fontes: 'Pacifico', cursiva;
+
+-//-
+
+Lato:https://fonts.google.com/specimen/Lato?selection.family=Lato
+
+Link HTML: <link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
+
+link CSS: @import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+	  font-family: 'Lato', sans-serif;
