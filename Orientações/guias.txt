@@ -1,0 +1,16 @@
+Cores:
+
+Verde: #2dcc70
+
+Bg Section-2, Footer: #e3e3e
+
+
+Fontes:
+
+Pacifico: https://fonts.google.com/specimen/Pacifico
+
+
+link HTML: <link href = "https://fonts.googleapis.com/css?family= Pacífico & display = swap" rel = "folha de estilo">
+
+Link CSS: @import url ('https://fonts.googleapis.com/css?family= Pacifico & display = swap');
+	  família de fontes: 'Pacifico', cursiva;
