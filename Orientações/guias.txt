@@ -2,7 +2,9 @@ Cores:
 
 Verde: #2dcc70
 
-Bg Section-2, Footer: #e3e3e
+botôes section-3: #e2e2e2
+
+Bg Section-2, Footer: #e3e3e3
 
 
 Fontes:

@@ -119,34 +119,85 @@ h1{
 
 /*Section-03*/
 
-.section-3 div{
+#section-3{
+    margin: 50px;
+}
+
+#content-section-3{
     display: flex;
     flex-direction: column;
     align-content: center;
     align-items: center;
 }
 
+#content-section-3 p{
+    color: rgba(0, 0, 0, .5);
+    align-items: center;
+    margin: 0 20.5%;    
+    text-align: center;
+}
+
+#peoples{
+    display: flex;
+    align-content: center;
+    align-items: center;
+    width: auto;
+    margin-bottom: 50px;
+}
+
 #social{
     display: flex;
+    margin: 16px 0;
 }
 
 
 .cicle-social{
-    height: 40px;
-    width: 40px;
+    height: 30px;
+    width: 30px;
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    margin: 0 8px;
-    background-color: #e2e2e2;
+    margin: 0 4px;
+    background-color: rgba(0, 0, 0, .25);
 }
 
-#test{
+.cicle-social img{
+    width: 65%;
+}
+
+.bg-img{
+    background-color: #2dcc70;
+    width: 50px;
+    height: 50px;
+    margin: 0 2px;
+}
+
+.bg-img a{
+    display: flex;
     background-color: #2dcc70;
     width: 50px;
     height: 50px;
 }
 
+.bg-img img{
+    opacity: 1;
+}
+
+.bg-img img:hover{
+    opacity: .5;
+}
+
+
+
+#peoples{
+    display: flex;
+    flex-direction: row;
+}
+
+.fist{
+    background: linear-gradient(to bottom, rgba(255, 225, 255, 0) 20%, rgba(255, 225, 255, 1)), center top url(http://vignette4.wikia.nocookie.net/logopedia/images/f/fb/Arctic-monkeys-logo-wallpaper.jpg/revision/latest?cb=20141122194620);
+  background-size: cover;
+}
 
 /*Footer*/
