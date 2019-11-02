@@ -114,6 +114,24 @@ h1{
 
 /*Section-01*/
 
+.icoons {
+    display: flex;
+    flex-direction: row;
+}
+
+.icoons-cicle {
+    flex-direction: row;
+    height: 80px;
+    width: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 30px;
+}
+
+.icoons-cicle img {
+    align-items: center;
+}
 
 /*Section-02*/
 
