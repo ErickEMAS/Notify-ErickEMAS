@@ -23,5 +23,5 @@ Lato:https://fonts.google.com/specimen/Lato?selection.family=Lato
 
 Link HTML: <link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
 
-link CSS: @import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+link CSS: @import url('https://fonts.googleapis.com/css?family=Overpass&display=swap');
 	  font-family: 'Lato', sans-serif;
